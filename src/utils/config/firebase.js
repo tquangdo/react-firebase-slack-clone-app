@@ -7,6 +7,7 @@ const fbConfig = {
     apiKey: "xxx",
     authDomain: "xxx",
     databaseURL: "xxx",
+    projectId: "xxx",
 }
 
 const fbApp = firebase.initializeApp(fbConfig)
